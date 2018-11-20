@@ -4,3 +4,6 @@
 Standard examples of programming of each language often leads to mess
 
 + Lost because sometimes this wisdom got lost and was not passed over to the next generation
+Younger people are pride because they know so much about new technology so that they do not
+listen to older generation you understand all the mistakes they did and new what is really
+and want leads to mess
