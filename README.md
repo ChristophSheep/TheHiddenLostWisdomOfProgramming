@@ -9,3 +9,11 @@ listen to older generation you understand all the mistakes they did and new what
 and want leads to mess
 
 + Examples of list wisdom - LISP (Arc), Plan9, (Oberon) Pascal, THI, ...
+
++ Before we got fast hardware people in the early day of computing know how the hardware works and how to make things fast
+  This was necessary because otherwise the programm would be to slow. Today we have very fast hardware and still slow software.
+
+## Examples
+
++ Storing xy coordinates also list x y x y .. x y instead of creating a class Point2D (Performance)
+
