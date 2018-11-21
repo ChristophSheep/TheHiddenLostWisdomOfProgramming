@@ -15,6 +15,8 @@ and want leads to mess
   
 + Writing normal ton's of classes leads to mess - generic programming is needed 
 
++ Stable Core + Real plugable software - Modular Programming
+
 ## Examples
 
 + Storing xy coordinates also list x y x y .. x y instead of creating a class Point2D (Performance)
