@@ -16,4 +16,5 @@ and want leads to mess
 ## Examples
 
 + Storing xy coordinates also list x y x y .. x y instead of creating a class Point2D (Performance)
++ ObjectWithAttributes - No normal class - see Maya
 
