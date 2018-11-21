@@ -12,6 +12,8 @@ and want leads to mess
 
 + Before we got fast hardware people in the early day of computing know how the hardware works and how to make things fast
   This was necessary because otherwise the programm would be to slow. Today we have very fast hardware and still slow software.
+  
++ Writing normal ton's of classes leads to mess - generic programming is needed 
 
 ## Examples
 
